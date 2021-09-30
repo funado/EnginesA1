@@ -65,6 +65,10 @@ public class Move : MonoBehaviour
         transform.rotation = localRotation;
 
         //WallClimb();
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
     }
 
     void OnCollisionStay()
