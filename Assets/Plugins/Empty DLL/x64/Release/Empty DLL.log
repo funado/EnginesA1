@@ -1,0 +1,8 @@
+﻿     Creating library C:\Users\jofad\source\repos\Empty DLL\x64\Release\Empty DLL.lib and object C:\Users\jofad\source\repos\Empty DLL\x64\Release\Empty DLL.exp
+  Generating code
+  Previous IOBJ not found, fall back to full compilation.
+C:\Users\jofad\source\repos\Empty DLL\EmptyDLL.cpp(12): error C4716: 'ReturnRed': must return a value
+C:\Users\jofad\source\repos\Empty DLL\EmptyDLL.cpp(16): error C4716: 'ReturnBlue': must return a value
+C:\Users\jofad\source\repos\Empty DLL\EmptyDLL.cpp(20): error C4716: 'ReturnGreen': must return a value
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed
